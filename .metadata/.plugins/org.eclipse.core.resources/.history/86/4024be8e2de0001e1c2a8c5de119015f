@@ -1,0 +1,10 @@
+package pojo_classes;
+
+import javax.management.openmbean.OpenMBeanAttributeInfo;
+
+public class FirstPojo {
+	public static void main(String[] args) {
+		System.out.println("this is pojo clas");
+	}
+
+}

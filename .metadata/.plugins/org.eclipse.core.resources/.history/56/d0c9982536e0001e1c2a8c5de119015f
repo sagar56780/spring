@@ -1,0 +1,14 @@
+package run;
+
+import org.springframework.cache.interceptor.AbstractCacheInvoker;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class Run {
+	public static void main(String[] args) {
+		ApplicationContext database_ac=new ClassPathXmlApplicationContext("database_config.xml");
+		ApplicationContext front_end_ac=new ClassPathXmlApplicationContext("front_end_config.xml");
+		ApplicationContext securtiy_ac=new ClassPathXmlApplicationContext("security_config.xml");
+	}
+
+}

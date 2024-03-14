@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+    <fullyQualifiedTypeName name="pojo_classes.FirstPojo"/>
+    <fullyQualifiedTypeName name="java.beans.Beans"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+    <fullyQualifiedTypeName name="pojo_classes.Teacher"/>
+    <fullyQualifiedTypeName name="pojo_classes.Staff"/>
+    <fullyQualifiedTypeName name="org.springframework.cache.interceptor.AbstractCacheInvoker"/>
+    <fullyQualifiedTypeName name="pojo_classes.Database"/>
+    <fullyQualifiedTypeName name="pojo_classes.FrontEnd"/>
+    <fullyQualifiedTypeName name="pojo_classes.Security"/>
+    <fullyQualifiedTypeName name="pojo_classes.Employee"/>
+    <fullyQualifiedTypeName name="pojo_classes.Person"/>
+    <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="pojo_classes.Student"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="pojo_classes.College"/>
+</qualifiedTypeNameHistroy>

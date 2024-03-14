@@ -1,0 +1,7 @@
+package pojo_classes;
+
+public class College {
+	String name;
+	
+
+}
