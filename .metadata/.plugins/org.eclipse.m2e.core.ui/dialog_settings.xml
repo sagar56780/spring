@@ -2,8 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
-			<item value="D:\e\spring\di_insert_list_using_setters"/>
+			<item value="D:\e\spring\di_insert_map_non_premitive_using_setters"/>
 			<item value="D:\e\spring\di_insert_value_using_setter"/>
+			<item value="D:\e\spring\di_insert_list_using_setters"/>
 			<item value="D:\e\spring\spring_demo"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -51,6 +52,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="di_insert_object_using_constructor"/>
+			<item value="di_insert_value_using_counstructor"/>
+			<item value="di_insert_map_non_premitive_using_setters"/>
+			<item value="di_insert_map_using_setters"/>
 			<item value="di_insert_non_primitive_data_list_using_setters"/>
 			<item value="di_insert_list_using_setters"/>
 			<item value="insert_object_using_setter"/>

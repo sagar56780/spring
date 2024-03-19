@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
-    <fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
     <fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
     <fullyQualifiedTypeName name="pojo_classes.FirstPojo"/>
@@ -13,12 +12,16 @@
     <fullyQualifiedTypeName name="pojo_classes.Database"/>
     <fullyQualifiedTypeName name="pojo_classes.FrontEnd"/>
     <fullyQualifiedTypeName name="pojo_classes.Security"/>
-    <fullyQualifiedTypeName name="pojo_classes.Employee"/>
-    <fullyQualifiedTypeName name="pojo_classes.Person"/>
     <fullyQualifiedTypeName name="java.lang.AutoCloseable"/>
-    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
-    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
     <fullyQualifiedTypeName name="pojo_classes.Student"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="pojo_classes.College"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+    <fullyQualifiedTypeName name="org.springframework.core.io.ContextResource"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="pojo_classes.Amazon"/>
+    <fullyQualifiedTypeName name="pojo_classes.Employee"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="pojo_classes.Person"/>
 </qualifiedTypeNameHistroy>
