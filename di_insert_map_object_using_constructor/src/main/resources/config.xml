@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd
+            http://www.springframework.org/schema/context
+            http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+            
+            
+            
+         <bean id="item1" class="pojo_classes.Item">
+         <constructor-arg value="iphone"> </constructor-arg>
+         <constructor-arg value="5000"></constructor-arg>
+          </bean>
+          
+          <bean id="item2" class="pojo_classes.Item">
+          <constructor-arg value="nokia"> </constructor-arg>
+          <constructor-arg value="6000"></constructor-arg>
+         
+		</bean>
+		<bean id="amazon" class="pojo_classes.Amazon">
+		<constructor-arg name="cart">
+			<map>
+			<entry key="101" value-ref="item1"></entry>
+			<entry key="102" value-ref="item2"></entry>
+			</map>
+			
+		</constructor-arg>
+		
+		</bean>
+		
+		
+	
+	
+</beans>
