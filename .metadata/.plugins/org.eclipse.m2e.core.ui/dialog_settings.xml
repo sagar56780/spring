@@ -2,9 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\e\spring\insert_using_value_annotation"/>
+			<item value="D:\e\spring\register_using_component_annotation"/>
+			<item value="D:\e\spring\spring_lifecycle"/>
+			<item value="D:\e\spring\di_insert_using_property_file"/>
+			<item value="D:\e\spring\di_insert_map_using_setters"/>
+			<item value="D:\e\spring\di_insert_list_using_setters"/>
 			<item value="D:\e\spring\di_insert_map_non_premitive_using_setters"/>
 			<item value="D:\e\spring\di_insert_value_using_setter"/>
-			<item value="D:\e\spring\di_insert_list_using_setters"/>
 			<item value="D:\e\spring\spring_demo"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -52,17 +57,21 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="di_using_bean_annotaion"/>
+			<item value="di_using_interface"/>
+			<item value="eleminating_the_use_of_config_file"/>
+			<item value="di_insert_using_autowired_annotaion"/>
+			<item value="insert_using_getter_setter_with_annotation"/>
+			<item value="insert_value_using_constructor_with_annotation"/>
+			<item value="insert_using_value_annotation"/>
+			<item value="register_using_component_annotation"/>
+			<item value="spring_lifecycle"/>
+			<item value="di_insert_using_property_file"/>
+			<item value="di_insert_map_object_using_constructor"/>
+			<item value="di_insert_map_using_constructor"/>
 			<item value="di_insert_object_using_constructor"/>
 			<item value="di_insert_value_using_counstructor"/>
 			<item value="di_insert_map_non_premitive_using_setters"/>
-			<item value="di_insert_map_using_setters"/>
-			<item value="di_insert_non_primitive_data_list_using_setters"/>
-			<item value="di_insert_list_using_setters"/>
-			<item value="insert_object_using_setter"/>
-			<item value="di_insert_value_using_setter"/>
-			<item value="multiple_config_file"/>
-			<item value="jee_container"/>
-			<item value="spring_demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
